@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 13 19:50:55 CDT 2019:
+ Iniciando instancia a816c00e-016b-edf6-11ba-000000c83278 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+en el directorio de base de datos F:\Repos\git\OCP_Java8_Study_Guide_Code\OCP8\zoo con el cargador de clases sun.misc.Launcher$AppClassLoader@139a55
+Cargado desde file:/F:/Software/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=F:\Repos\git\OCP_Java8_Study_Guide_Code\OCP8
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''

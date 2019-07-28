@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry excluding="main/java/" kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/software/db-derby-10.14.2.0-bin/lib/derby.jar"/>
-	<classpathentry kind="lib" path="C:/software/db-derby-10.14.2.0-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="E:/Software/jars locales/db-derby-10.14.2.0-bin.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
